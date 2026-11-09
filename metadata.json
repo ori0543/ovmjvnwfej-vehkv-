@@ -1,0 +1,6 @@
+{
+  "name": "כניסה לחשבון Google",
+  "description": "דף כניסה לחשבון Google בעיצוב מודרני ונאמן למקור בעברית",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
